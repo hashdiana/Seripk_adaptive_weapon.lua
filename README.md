@@ -1,1 +1,1 @@
-# Seripk_adaptive_weapon.lua
+A ragebot extension for sk/gamesense
